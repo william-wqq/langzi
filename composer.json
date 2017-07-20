@@ -1,0 +1,30 @@
+{
+
+    "name": "william-wqq/langzi",
+    "description": "test for packagist and composer",
+    "version": "",
+    "type": "library",
+    "keywords": "php array string file",
+    "homepage": "https://github.com/william-wqq/langzi.git",
+    "time": "2017-7-20 15:42:06",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "william",
+            "email": "william_wqq@163.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "~5.6.16"
+    },
+    "autoload": {
+      "psr-0": {
+        "Monolog\\": "src/",
+        "Vendor\\Namespace\\": "src/",
+        "Vendor_Namespace_": "src/"
+      }
+    },
+    "minimum-stability": "dev"
+
+}

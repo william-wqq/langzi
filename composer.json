@@ -2,9 +2,9 @@
 
     "name": "william-wqq/langzi",
     "description": "test for packagist and composer",
-    "version": "",
+    //"version": "",
     "type": "library",
-    "keywords": [ "php", "array", "string", "file" ],  
+    "keywords": [ "php", "array", "string", "file" ],
     "homepage": "https://github.com/william-wqq/langzi.git",
     "time": "2017-7-20 15:42:06",
     "license": "MIT",
